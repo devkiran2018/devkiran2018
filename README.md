@@ -2,9 +2,9 @@
 “Experienced DevOps Engineer proficient in Administration, Development, and Security domain.” 
 
 ## TECHNICAL SKILLS:
-|----------------------------------------------------------------------------------------------------------------------------------|
-| **⚙️🛠️🚀DevOps Automation Tools** | Git, Bitbucket, JFrog Artifactory, Sonarqube, Jenkins, Ansible, JIRA, GitOps-Argo CD, Flux, Snyk. |
-| **🐳☸️📦Container Management**  |	Docker, Podman, Kubernetes, Openshift, Service Mesh- Istio, Helm, Kustomize                         |
+|----------------------------------------------------------------------------------------------------------------------------------------|
+|**⚙️🛠️🚀DevOps Automation Tools**| Git, Bitbucket, JFrog Artifactory, Sonarqube, Jenkins, Ansible, JIRA, GitOps-Argo CD, Flux, Snyk. |
+|**🐳☸️📦Container Management**  |	Docker, Podman, Kubernetes, Openshift, Service Mesh- Istio, Helm, Kustomize                         |
 | **📊📈🔍Observability/Monitoring Tools** | 	ELK Stack, Grafana, Prometheus, Splunk, Data Dog, Dynatrace.                        |
 | **☁️ Cloud Platforms**          | AWS, Azure, GCP, VMWare.                                                                      |
 | **📜 Infrastructure as Code**   | Terraform, CloudFormation                                                                    |
