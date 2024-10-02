@@ -22,7 +22,8 @@
 - [Kubestronaut(CKA,CKAD,CKS)] (https://www.credly.com/badges/17a3919c-b36c-465a-a15b-ddfcf24e3d66)
 - [AWS Certified Solutions Architect – Associate] (https://www.credly.com/badges/dd05c82c-2a7a-4a47-98c2-d3c399be0767/public_url)
 
-
+### Contact:
+connect with me on [LinkedIn](https://www.linkedin.com/in/devkiranops)
 <!--
 **devkiran2018/devkiran2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
