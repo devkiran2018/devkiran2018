@@ -18,10 +18,9 @@
 | **🧪⚡📦🚗📬 Testing Tools**	| HP-ALM, Quick Test Pro, SOAP UI, Selenium (Web driver), PostMan.                               |
 
 ### Certifications:
-https://www.credly.com/badges/dd05c82c-2a7a-4a47-98c2-d3c399be0767/public_url
 
 - [Kubestronaut(CKA,CKAD,CKS)] (https://www.credly.com/badges/17a3919c-b36c-465a-a15b-ddfcf24e3d66)
-- [AWS Certified Solutions Architect Associate] (https://www.credly.com/badges/dd05c82c-2a7a-4a47-98c2-d3c399be0767/public_url)
+- [AWS Certified Solutions Architect – Associate] (https://www.credly.com/badges/dd05c82c-2a7a-4a47-98c2-d3c399be0767/public_url)
 
 
 <!--
