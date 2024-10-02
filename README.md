@@ -7,10 +7,10 @@
 | **Domain**                        |  **Tools**
 |-----------------------------------|----------------------------------------------------------------------------------------------------|
 |**⚙️🛠️🚀DevOps Automation Tools**| Git, Bitbucket, JFrog Artifactory, Sonarqube, Jenkins, Ansible, JIRA, GitOps-Argo CD, Flux, Snyk. |
-|**🐳☸️📦Container Management**  |	Docker, Podman, Kubernetes, Openshift, Service Mesh- Istio, Helm, Kustomize                         |
+|**🐳☸️📦Container Management**  |	Docker, Podman, Kubernetes, Openshift, Service Mesh- Istio, Helm, Kustomize.                         |
 | **📊📈🔍Observability/Monitoring Tools** | 	ELK Stack, Grafana, Prometheus, Splunk, Data Dog, Dynatrace.                        |
 | **☁️ Cloud Platforms**          | AWS, Azure, GCP, VMWare.                                                                      |
-| **📜 Infrastructure as Code**   | Terraform, CloudFormation                                                                    |
+| **📜 Infrastructure as Code**   | Terraform, CloudFormation.                                                                  |
 | **🪟🐧💻 Operating System**    | Windows server 2012, 2016, 2022, LINUX (RHEL 9, Centos), UNIX.                               |
 | **🌐🐍📜 Programming Languages** | HTML, SQL, Python, Go, C, JAVA, Java Script, Bash.                                           |
 | **🌐🕸️🖥️ Web/Application Servers**| 	Apache, Tomcat, Nginx, WebLogic, IIS.                                                     |
@@ -20,8 +20,8 @@
 ### Certifications:
 https://www.credly.com/badges/dd05c82c-2a7a-4a47-98c2-d3c399be0767/public_url
 
-- [Kubestronaut(CKA,CKAD,CKS)](https://www.credly.com/badges/17a3919c-b36c-465a-a15b-ddfcf24e3d66)
-- [AWS Certified Solutions Architect](https://www.credly.com/badges/dd05c82c-2a7a-4a47-98c2-d3c399be0767/public_url)
+- [Kubestronaut(CKA,CKAD,CKS)] (https://www.credly.com/badges/17a3919c-b36c-465a-a15b-ddfcf24e3d66)
+- [AWS Certified Solutions Architect] (https://www.credly.com/badges/dd05c82c-2a7a-4a47-98c2-d3c399be0767/public_url)
 
 
 <!--
