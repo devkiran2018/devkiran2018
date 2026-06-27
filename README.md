@@ -16,6 +16,7 @@
 | **🌐🕸️🖥️ Web/Application Servers**| 	Apache, Tomcat, Nginx, WebLogic, IIS.                                                     |
 | **🗄️🗃️🐘 Databases**              | SQL Server, MySQL, Oracle, SQL*, Postgres, MongoDB, Dynamo DB.                             |
 | **🧪⚡📦🚗📬 Testing Tools**	| HP-ALM, Quick Test Pro, SOAP UI, Selenium (Web driver), PostMan.                               |
+| ** ML OPS ** | K-serv, ML flow, SageMaker AI.
 
 ### Certifications:
 
